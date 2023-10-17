@@ -43,7 +43,7 @@ Deploy AWS resources and an EC2 instance that you can SSH into to have your own 
 Run these commands to set up your dev environment on the cloud.
 
 ```
-git clone 
+git clone git@github.com:scriptstar/terraform-dev-env.git
 ```
 
 This command will create an EC2 instance in your AWS account.
