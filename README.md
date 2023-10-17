@@ -35,7 +35,7 @@ Deploy AWS resources and an EC2 instance that you can SSH into to have your own 
 2. [Github account](https://github.com/)
 3. [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 4. [AWS account](https://aws.amazon.com/)
-5. [AWS CLI installed](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) and [configured] (https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+5. [AWS CLI installed](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) and [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 6. [Docker](https://docs.docker.com/engine/install/) with at least 4GB of RAM and Docker Compose v1.27.0 or later
 
 ## Installation
